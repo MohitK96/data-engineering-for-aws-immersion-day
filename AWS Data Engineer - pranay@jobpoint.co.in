@@ -1,0 +1,55 @@
+Job Description:
+•	5+ years of experience as a Data Engineer on the AWS Stack
+•	PySpark
+•	Solid experience with
+•	AWS services such as Cloud Formation, S3, Athena, Glue, Glue Data Brew, EMR/Spark, RDS, Redshift, Data Sync, DMS, DynamoDB, Lambda, Step Functions, IAM, KMS, SM, Event Bridge, EC2, SQS, SNS, Lake Formation, Cloud Watch, Cloud Trail
+•	Programming experience with Python, Shell scripting, and SQL
+•	Responsible for building, test, QA & UAT environments using Cloud Formation.
+•	Build & implement CI/CD pipelines for the EDP Platform using Cloud Formation and Jenkins
+
+Good to Have: 
+•	Implement high-velocity streaming solutions and orchestration using Amazon Kinesis, AWS Managed Airflow, and AWS Managed Kafka (preferred)
+•	Solid experience building solutions on AWS data lake/data warehouse
+•	Analyze, design, Development and implement data ingestion pipeline in AWS
+•	Knowledge of implementing ETL/ELT for data solutions end to end ingest data from Rest APIs to AWS data lake (S3) and relational databases such as Amazon RDS, Aurora,
+•	and Redshift.
+•	Perform the Peer Code
+•	Review and, perform code quality analysis, and associated tools end-to-end for Prudential's platforms
+•	Create detailed, comprehensive, and well-structured test cases that follow best practices and techniques.
+•	Estimate, prioritize, plan & coordinate quality testing activities
+•	Understanding requirements, and data solutions (ingest, storage, integration, processing, access) on AWS
+•	Knowledge of implementing RBAC strategy/solutions using AWS IAM and Redshift RBAC model
+•	Knowledge of analyzing data using SQL Stored procedures
+•	Build automated data pipelines to ingest data from relational database systems, file system , and NAS shares to AWS relational databases such as Amazon RDS, Aurora, and Redshift
+•	Build Automated data pipelines to develop test plans, execute manual and automated test cases, help to identify the root causes, and articulate defects clearly
+•	Recreate production issues to help determine the issue and verify any fixes
+•	Conducting End to End verification and validation for the entire application
+•	Creating Jenkins CI pipelines to integrate Sonar/Security scans and test automation scripts
+•	Using Git/bitbucket for efficient remote team working, storing framework, and developing test scripts
+•	Part of DevOps QA and AWS team focusing on building CI/CD pipeline
+•	Part of the release/build team and mainly worked on release management, CI/CD pipeline
+•	Deploy multiple instances by using cloud formation templates
+
+Responsibilities:
+•	Designing, building, and maintaining efficient, reusable, and reliable code
+•	Ensure the best possible performance and quality of high-scale data applications and services
+•	Participate in system design discussions
+•	Independently perform hands-on Development and unit testing of the applications
+•	Collaborate with the development team and build individual components into the enterprise data
+•	platform
+•	Work in a team environment with the product, QE/QA, and cross-functional teams to deliver a project throughout the whole software development cycle.
+•	Responsible to identify and resolve any performance issues
+•	Keep up to date with new technology development and implementation
+•	Participate in code review to make sure standards and best practices are met
+•	Project management:
+•	Agile developers take responsibility for estimating, planning, and managing all tasks and report on progress
+•	Software quality: 
+•	The Agile developer is also responsible for the quality of the software he/she
+•	produces. The team takes responsibility for the quality of the work they
+•	produce instead of turning over some code to a separate and independent group
+•	for testing
+•	Teamwork: 
+•	This includes collaboration with all other team members with the aim to take shared
+•	responsibility for the overall efforts
+•	Understanding user needs: 
+•	This is about interacting with users as necessary to clarify requirements
